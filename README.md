@@ -1,3 +1,3 @@
 # Athens Dirt Report
 
-React + Tailwind starter site coming soon.
+React + Tailwind + Next.js site.
